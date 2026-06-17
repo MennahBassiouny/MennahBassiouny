@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MennahBassiouny
   
-- 🧬 Bioinformatics MS student at Indiana University - Indianapolis
+- 🧬 Bioinformatics MS Graduate From Indiana University - Indianapolis
   
 - 🔬 **Research Interests**:
 - Gene regulation and regulatory mechanisms
